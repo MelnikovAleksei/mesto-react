@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/MelnikovAleksei/mesto-react/static/css/main.1e4b0bbb.chunk.css",
-    "main.js": "/MelnikovAleksei/mesto-react/static/js/main.56cd4751.chunk.js",
-    "main.js.map": "/MelnikovAleksei/mesto-react/static/js/main.56cd4751.chunk.js.map",
-    "runtime-main.js": "/MelnikovAleksei/mesto-react/static/js/runtime-main.4a354f9b.js",
-    "runtime-main.js.map": "/MelnikovAleksei/mesto-react/static/js/runtime-main.4a354f9b.js.map",
-    "static/js/2.00ea71ae.chunk.js": "/MelnikovAleksei/mesto-react/static/js/2.00ea71ae.chunk.js",
-    "static/js/2.00ea71ae.chunk.js.map": "/MelnikovAleksei/mesto-react/static/js/2.00ea71ae.chunk.js.map",
-    "index.html": "/MelnikovAleksei/mesto-react/index.html",
-    "static/css/main.1e4b0bbb.chunk.css.map": "/MelnikovAleksei/mesto-react/static/css/main.1e4b0bbb.chunk.css.map",
-    "static/js/2.00ea71ae.chunk.js.LICENSE.txt": "/MelnikovAleksei/mesto-react/static/js/2.00ea71ae.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/MelnikovAleksei/mesto-react/static/media/photos-like-button_liked.75438e94.svg",
-    "static/media/mesto-logo.a307e1c4.svg": "/MelnikovAleksei/mesto-react/static/media/mesto-logo.a307e1c4.svg"
+    "main.css": "./static/css/main.effc7189.chunk.css",
+    "main.js": "./static/js/main.56cd4751.chunk.js",
+    "main.js.map": "./static/js/main.56cd4751.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.bb07264e.js",
+    "runtime-main.js.map": "./static/js/runtime-main.bb07264e.js.map",
+    "static/js/2.00ea71ae.chunk.js": "./static/js/2.00ea71ae.chunk.js",
+    "static/js/2.00ea71ae.chunk.js.map": "./static/js/2.00ea71ae.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.effc7189.chunk.css.map": "./static/css/main.effc7189.chunk.css.map",
+    "static/js/2.00ea71ae.chunk.js.LICENSE.txt": "./static/js/2.00ea71ae.chunk.js.LICENSE.txt",
+    "static/media/index.css": "./static/media/photos-like-button_liked.75438e94.svg",
+    "static/media/mesto-logo.a307e1c4.svg": "./static/media/mesto-logo.a307e1c4.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4a354f9b.js",
+    "static/js/runtime-main.bb07264e.js",
     "static/js/2.00ea71ae.chunk.js",
-    "static/css/main.1e4b0bbb.chunk.css",
+    "static/css/main.effc7189.chunk.css",
     "static/js/main.56cd4751.chunk.js"
   ]
 }
