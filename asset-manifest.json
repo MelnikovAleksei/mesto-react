@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.e4ac4513.chunk.css",
-    "main.js": "./static/js/main.b2a399f8.chunk.js",
-    "main.js.map": "./static/js/main.b2a399f8.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.bb07264e.js",
-    "runtime-main.js.map": "./static/js/runtime-main.bb07264e.js.map",
-    "static/js/2.31d4d72e.chunk.js": "./static/js/2.31d4d72e.chunk.js",
-    "static/js/2.31d4d72e.chunk.js.map": "./static/js/2.31d4d72e.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/main.e4ac4513.chunk.css.map": "./static/css/main.e4ac4513.chunk.css.map",
-    "static/js/2.31d4d72e.chunk.js.LICENSE.txt": "./static/js/2.31d4d72e.chunk.js.LICENSE.txt",
-    "static/media/index.css": "./static/media/photos-like-button_liked.75438e94.svg",
-    "static/media/mesto-logo.a307e1c4.svg": "./static/media/mesto-logo.a307e1c4.svg",
-    "static/media/not-success-sign-up.7c6a020b.svg": "./static/media/not-success-sign-up.7c6a020b.svg",
-    "static/media/success-sign-up.1b6082f8.svg": "./static/media/success-sign-up.1b6082f8.svg"
+    "main.css": "/mesto-react/static/css/main.b7622c37.chunk.css",
+    "main.js": "/mesto-react/static/js/main.b2a399f8.chunk.js",
+    "main.js.map": "/mesto-react/static/js/main.b2a399f8.chunk.js.map",
+    "runtime-main.js": "/mesto-react/static/js/runtime-main.90844a2e.js",
+    "runtime-main.js.map": "/mesto-react/static/js/runtime-main.90844a2e.js.map",
+    "static/js/2.31d4d72e.chunk.js": "/mesto-react/static/js/2.31d4d72e.chunk.js",
+    "static/js/2.31d4d72e.chunk.js.map": "/mesto-react/static/js/2.31d4d72e.chunk.js.map",
+    "index.html": "/mesto-react/index.html",
+    "static/css/main.b7622c37.chunk.css.map": "/mesto-react/static/css/main.b7622c37.chunk.css.map",
+    "static/js/2.31d4d72e.chunk.js.LICENSE.txt": "/mesto-react/static/js/2.31d4d72e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/mesto-react/static/media/photos-like-button_liked.75438e94.svg",
+    "static/media/mesto-logo.a307e1c4.svg": "/mesto-react/static/media/mesto-logo.a307e1c4.svg",
+    "static/media/not-success-sign-up.7c6a020b.svg": "/mesto-react/static/media/not-success-sign-up.7c6a020b.svg",
+    "static/media/success-sign-up.1b6082f8.svg": "/mesto-react/static/media/success-sign-up.1b6082f8.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bb07264e.js",
+    "static/js/runtime-main.90844a2e.js",
     "static/js/2.31d4d72e.chunk.js",
-    "static/css/main.e4ac4513.chunk.css",
+    "static/css/main.b7622c37.chunk.css",
     "static/js/main.b2a399f8.chunk.js"
   ]
 }
