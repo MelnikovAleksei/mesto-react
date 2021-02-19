@@ -8,7 +8,7 @@
 
 "Mesto" - это интерактивная страница, где пользователи могут делиться фотографиями. Она создана в рамках прохождения 4-11 спринтов курса. Данная работа переведена на фреймворк React. Ссылка на [репозиторий с версией проектной работы на Pure JS](https://github.com/MelnikovAleksei/mesto)
 
-[Проектная работа на GitHub Pages](https://melnikovaleksei.github.io/mesto-react/index.html)
+[Размещение](https://melnikov.students.nomoredomains.icu/)
 
 ## Функционал:
 
